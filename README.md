@@ -1,7 +1,6 @@
 # whatsappclone
 
 A new Flutter application.
-<div class="container">
   <div class="row">
     <img src="https://user-images.githubusercontent.com/69755039/143676321-73eebf3d-9c24-4636-8a4a-901b2c486bfc.png" width="300" height="600">
     <img src="https://user-images.githubusercontent.com/69755039/143676322-f11ca3aa-037f-43cb-993f-ec655d1aae73.png"  width="300" height="600">
@@ -9,7 +8,6 @@ A new Flutter application.
 
     </div>
 
-  </div>
 
 ## Getting Started
 
